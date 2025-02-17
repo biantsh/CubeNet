@@ -7,7 +7,7 @@ from app.enums.colors import Color
 
 
 class CubeFaceDebouncer:
-    threshold = 30
+    threshold = 15
 
     def __init__(self) -> None:
         self.previous_colors = None
