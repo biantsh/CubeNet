@@ -1,0 +1,15 @@
+kociemba~=1.2
+numpy~=1.24
+opencv-python~=4.11
+scikit-learn~=1.6
+tflite-runtime~=2.14
+
+# For training classifier
+pandas~=2.2
+
+# For training detector
+protobuf~=3.20
+pyyaml==5.3
+tensorflow==2.8.1
+tf-models-official==2.8.0
+tf-object-detection-api==0.1
