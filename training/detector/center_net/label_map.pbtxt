@@ -1,0 +1,4 @@
+item {
+    name: 'cube_face'
+    id: 1
+}
